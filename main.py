@@ -1,0 +1,8 @@
+p = int(input("Enter value p for operation : "))
+q = int(input("Enter value q for operation : "))
+r = int(input("Enter value r for operation : "))
+print("addition of the p q r is : ", p+q+r)
+print("Multiplication of the p q r is : ", p*q*r)
+print("Substraction of the p q r is : ", p-q-r)
+print("Average of the p q r is : ", (p+q+r)/3)
+print(" Remainder of the p q r is : ", p%q%r)
